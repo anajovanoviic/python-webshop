@@ -5,3 +5,4 @@
 
 ![image](https://github.com/anajovanoviic/python-webshop/assets/51513732/6cdf7efa-e441-4cd2-a9a3-7f29e64becf6)
 
+![image](https://github.com/anajovanoviic/python-webshop/assets/51513732/177c0fe6-6bea-46ae-8637-3b7846376548)
